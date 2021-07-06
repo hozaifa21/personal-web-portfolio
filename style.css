@@ -75,3 +75,83 @@ padding-left: 700px;
     padding: 10px 20px;
     margin-bottom: 50px;
 }
+.cards{
+    width: 25%;
+    background-color:rgb(247, 244, 244); 
+    border-radius: 30px;
+    display: inline-block;
+    margin: 20px;
+    box-shadow: 2px 2px 10px black;
+    padding: 20px 40px;
+    border: 15px;
+    
+}
+.image img{
+    width: 100%;
+    border-radius:30px;
+    border: 15px;
+    
+    
+    
+    
+    
+}
+.title{
+    font-size: 20px;
+    font-weight: bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    margin-left: 10px;
+    padding: 5px;
+}
+.des{
+   margin-left: 10px; 
+   padding: 5px;
+   
+}
+.main{
+    display: flex;
+    display: flexbox;
+    padding: 10px 10px 10px 10px ;
+}
+.box{
+   display: inline-block;
+    margin: 50px;
+    padding: 20px 40px;
+   
+   text-align: center;
+    
+   
+}
+.box-model{
+    position: relative;
+    padding-left: 300px;
+    box-shadow: 2px 2px 10px rgb(230, 226, 226);
+    background: white;
+    border-radius: 30px;
+    border-width: 50px;
+    margin: 30px
+}
+.box h5{
+    padding-bottom: 1px;
+}
+.food-net{
+    font-size: 20px; 
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: rgb(104, 105, 107);
+    text-align: center;
+    background-color: black;
+    padding: 25px 50px;
+    
+}
+.food-net h5{
+    text-align: center;
+    font-weight: normal;
+   
+}
+.foor-net h3{
+    padding-top:30px;
+    margin-top: 10px;
+}
+
+
